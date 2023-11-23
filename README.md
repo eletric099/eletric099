@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eletric099
 - 👀 I’m interested in logic programation
-- 🌱 I’m currently learning a programation
+- 🌱 I’m currently learning  programation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
