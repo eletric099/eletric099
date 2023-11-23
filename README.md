@@ -2,7 +2,8 @@
 - 👀 I’m interested in logic programation
 - 🌱 I’m currently learning  programation
 - 💞️ I’m looking to collaborate on all senses
-- 📫 How to reach me ...
+- 📫 How to reach me how email
+- 
 
 <!---
 eletric099/eletric099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
