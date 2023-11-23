@@ -2,7 +2,8 @@
 - 👀 I’m interested in logic programation
 - 🌱 I’m currently learning  programation
 - 💞️ I’m looking to collaborate on all senses
-- 📫 How to reach me how email or gmail
+- 📫 How to reach me
+- 
 - 
 
 <!---
